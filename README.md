@@ -208,6 +208,9 @@ This section illustrates the search algorithms using a simplified road map of Ro
 - **BFS Tree Representation:** Shows the order of node expansions.
 - **DFS Tree Representation:** Displays how deep the search goes before backtracking.
 
+[🔗 View Notebook](https://github.com/Basharul2002/AI/blob/main/4.%20Search%20Simulations(BFS%2C%20DFS).ipynb)
+
+
 ---
 
 ## 🔍 **Search Algorithms (UCS, GBFS, A* Algorithms)**
@@ -230,6 +233,8 @@ This section delves into more advanced search algorithms, including **Uniform Co
 
 - **Optimal for:** Finding the least-cost path by combining cost and heuristic estimates.
 - **Mechanism:** Evaluates nodes using both path cost and heuristic to ensure optimal search.
+
+[View Notebook](https://github.com/Basharul2002/AI/blob/main/5.%20Search%20Algorithms%20(UCS%2C%20GBFS%2C%20Astar)%20%26%20Simulation.ipynb)
 
 ---
 
