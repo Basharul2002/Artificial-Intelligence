@@ -145,7 +145,7 @@ Each algorithm is illustrated using a map navigation scenario, allowing users to
 - **GBFS:** Uses heuristics to find the most promising path quickly but does not guarantee the shortest path.
 - **A-star:** Combines the strengths of UCS and GBFS to efficiently find the shortest path.
 
-[🔗 View Notebook](https://github.com/Basharul2002/AI/blob/main/5.%20Search%20Algorithms(UCS,%20GBFS,%20A*).ipynb)
+[🔗 View Notebook](https://github.com/Basharul2002/AI/blob/main/5.%20Search%20Algorithms%20(UCS%2C%20GBFS%2C%20Astar)%20%26%20Simulation.ipynb)
 
 ## 🧬 Genetic Algorithm
 
