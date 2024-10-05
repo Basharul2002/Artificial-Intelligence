@@ -113,9 +113,7 @@ Follow along with an example problem to see how a genetic algorithm refines solu
 
 For any inquiries, suggestions, or feedback, feel free to reach out:
 
-- **Email:** basharul2002@gmail.com
+- **Email:** [basharul2002@gmail.com](mailto:basharul2002@gmail.com)
 - **GitHub:** [Basharul2002](https://github.com/Basharul2002)
 
 ---
-
-This polished version keeps the structure professional, ensures clarity, and visually separates important sections for a smooth reading experience.
